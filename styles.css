@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    width: 360px;
+    margin: 0 auto;
+}
+
+.pontuacao {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+canvas {
+    background-color: #111;
+    border: 2px solid #333;
+    display: block;
+    margin: 0 auto;
+}
+
+.controles button {
+    background-color: #0A3871;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.controles button:hover {
+    background-color: #f5a623;
+}
+
